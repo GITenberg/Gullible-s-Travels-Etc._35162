@@ -1,0 +1,48 @@
+_repo: Gullible-s-Travels-Etc._35162
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Preston, May Wilson
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '7318'
+    url: http://www.gutenberg.org/2009/agents/7318
+covers:
+- cover_type: archival
+  image_path: 35162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lardner, Ring
+    aliases:
+    - Lardner, Ring W. (Ring Wilmer)
+    - Lardner, Ring Wilmer
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '2457'
+    url: http://www.gutenberg.org/2009/agents/2457
+    wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35162'
+  lccn: '17005401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera -- Fiction'
+- !lcsh 'Sisters-in-law -- Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Bridge players -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PS'
+tableOfContents: Carmen -- Three kings and a pair -- Gullible's travels -- The water
+  cure -- Three without, doubled.
+title: Gullible's Travels, Etc.
+url: http://www.gutenberg.org/ebooks/35162
