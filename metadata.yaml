@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2457
     wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35162#Gullible-s-Travels-Etc.
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2011-02-04'
 gutenberg_type: Text
